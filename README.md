@@ -30,8 +30,8 @@ Proyek aplikasi web monolit modular yang dibangun menggunakan **Python 3.11** da
 
 ## 🔑 Akun Default Staf & Administrasi
 Jika data demo sudah diinisialisasi (melalui `manage.py seed_demo`):
-- **Username:** `admin`
-- **Password:** `admin123`
+- **Username:** `laela123`
+- **Password:** `root`
 - **Akses Django Admin:** `http://127.0.0.1:8000/admin/`
 
 ---
